@@ -3,7 +3,8 @@ Xin chào các bạn
 git clone <repo> ## đường link github cần clone  
 thêm file vào staged 
 git add <tên file>
-git add .      ##upload tất cả các file trong thư mục 
+##upload tất cả các file trong thư mục 
+git add .     
 git commit -m  <message>
 git push  ## đối với branch main 
 

@@ -17,7 +17,7 @@ git checkout <tên branch>
 
 <br>đối với merge file trong branch các bạn cần <br> 
 
-<br>git add .      </br>
+<br>sau khi commit ở branch thì cần  </br>
 
 git push --set-upsteam <tên branch>
 git checkout main 

@@ -1,2 +1,2 @@
 Xin chào các bạn 
-Đây là repo lần 1 
+Đây là main file tt_xla thứ 4 nhóm 2

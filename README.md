@@ -1,4 +1,4 @@
-Xin chào các bạn 
+<br>Xin chào các bạn </br>
 Đây là main file tt_xla thứ 4 nhóm 2
 git clone <repo> ## đường link github cần clone  
 thêm file vào staged 

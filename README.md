@@ -1,9 +1,11 @@
 <br>Xin chào các bạn </br>
-Đây là main file tt_xla thứ 4 nhóm 2
-git clone <repo> ## đường link github cần clone  
-thêm file vào staged 
+<br>Đây là main file tt_xla thứ 4 nhóm 2 </br>
+<br>## đường link github cần clone </br>
+git clone <repo>  
+<br>thêm file vào staged </br>
 git add <tên file>
-git add .      ##upload tất cả các file trong thư mục 
+<br>## hoặc upload tất cả các file trong thư mục </br> 
+git add .      
 git commit -m  <message>
 git push  ## đối với branch main 
 

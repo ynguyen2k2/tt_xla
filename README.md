@@ -1,11 +1,11 @@
 <H2>Xin chào các bạn </H2>
 <br>Đây là main file tt_xla thứ 4 nhóm 2 </br>
 <br>## đường link github cần clone </br>
-git clone <repo>  
+<br> git clone <repo>   </br>
 <br>thêm file vào staged </br>
-git add <tên file>
+<br>git add <tên file></br>
 
-git add .      ## hoặc upload tất cả các file trong thư mục 
+<br>git add .      ## hoặc upload tất cả các file trong thư mục </br>
 
 git commit -m  <message>
 git push  ## đối với branch main 
@@ -21,4 +21,4 @@ git checkout <tên branch>
 
 <br>git push --set-upsteam <tên branch></br>
 <br>git checkout main </br>
-<br>git merge <tên branch ></br>
+<br>git merge <tên branch></br>

@@ -1,2 +1,2 @@
 Xin chào các bạn 
-Đây là repo lần 1 
+Đây là branch Ý

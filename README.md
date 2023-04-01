@@ -19,6 +19,6 @@ git checkout <tên branch>
 
 <br>sau khi commit ở branch thì cần  </br>
 
-git push --set-upsteam <tên branch>
-git checkout main 
-git merge <tên branch >
+<br>git push --set-upsteam <tên branch></br>
+<br>git checkout main </br>
+<br>git merge <tên branch ></br>

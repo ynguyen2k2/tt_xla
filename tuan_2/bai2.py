@@ -1,6 +1,7 @@
 import os
 import cv2
-path=r'D:\Desktop\tt_xla\git\tt_xla\tuan_2\image\vo.jpg'
+path = os.path.dirname(os.path.abspath("den_mau.jpg"))
+
 image1=cv2.imread(path,cv2.IMREAD_UNCHANGED)
 scale_percent = 10 # percent of original size
 width = int(image1.shape[1] * scale_percent / 100)

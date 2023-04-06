@@ -1,5 +1,6 @@
 import os
 import cv2
+import IPython
 path = os.path.dirname(os.path.abspath("den_mau.jpg"))
 
 image1=cv2.imread(path,cv2.IMREAD_UNCHANGED)

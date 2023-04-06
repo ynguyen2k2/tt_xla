@@ -1,6 +1,4 @@
 
-from skimage import data,color
-# lật hình
 
-coffee_image = data.coffee()
-coins_image = data.coins()
+import matplotlib.pyplot as plt
+from skimage import color,data

@@ -22,3 +22,5 @@ git checkout <tên branch>
 <br>git push --set-upsteam <tên branch></br>
 <br>git checkout main </br>
 <br>git merge <tên branch></br>
+
+<br>https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html#:~:text=Add%20your%20public%20key%20to%20GitHub&text=Login%20to%20github.com%20and,hit%20Add%20key%20to%20save.</br>

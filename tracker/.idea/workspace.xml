@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf89d73-3fe7-41c4-ab96-42bdc2f03db3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/toolchains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/toolchains.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/san_pham.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/.idea/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/.idea/inspectionProfiles/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/.ipynb_checkpoints/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/image/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/image/200px-AdditiveColorMixing.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_2/image/3-mau-co-ban-trong-in-an.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_3/.ipynb_checkpoints/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_3/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_3/image/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_3/video/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_4/.ipynb_checkpoints/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_4/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_4/image/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_4/video/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_5/.ipynb_checkpoints/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_5/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_5/image/.rescache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuan_5/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../manual.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tuan_2/tuan_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../tuan_2/tuan_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tuan_5/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../tuan_5/Untitled.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PsQuLo2xTKBEAgfRPKgc5PfO9F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf89d73-3fe7-41c4-ab96-42bdc2f03db3" name="Changes" comment="" />
+      <created>1684243530635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684243530635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
